@@ -1,7 +1,8 @@
 import java.util.*;
 
 /**
- * Write your comments here
+ * Duncan Barnes
+ * 4/22/22
  */
 public class Anagrams {
     private List<String> orderedDictionary;

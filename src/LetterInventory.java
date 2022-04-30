@@ -1,3 +1,8 @@
+/**
+ * Duncan Barnes
+ * 4/22/22
+ */
+
 public class LetterInventory {
 
     private static final int ALPHABET_LENGTH = 26;
